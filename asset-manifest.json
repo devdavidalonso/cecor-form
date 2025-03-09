@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cecor-form/static/css/main.7cd2de0d.css",
+    "main.js": "/cecor-form/static/js/main.bd33180d.js",
+    "static/js/453.0ff28366.chunk.js": "/cecor-form/static/js/453.0ff28366.chunk.js",
+    "index.html": "/cecor-form/index.html",
+    "main.7cd2de0d.css.map": "/cecor-form/static/css/main.7cd2de0d.css.map",
+    "main.bd33180d.js.map": "/cecor-form/static/js/main.bd33180d.js.map",
+    "453.0ff28366.chunk.js.map": "/cecor-form/static/js/453.0ff28366.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd2de0d.css",
+    "static/js/main.bd33180d.js"
+  ]
+}
