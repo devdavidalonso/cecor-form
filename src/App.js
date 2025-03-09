@@ -9,6 +9,7 @@ import FamilyInfo from './pages/FamilyInfo';
 import AdditionalInfo from './pages/AdditionalInfo';
 import Confirmation from './pages/Confirmation';
 import Success from './pages/Success';
+import NotFound from './pages/NotFound';
 import './styles/index.css';
 
 function App() {
