@@ -24,6 +24,7 @@ function App() {
             <Route path="/additional-info" element={<AdditionalInfo />} />
             <Route path="/confirmation" element={<Confirmation />} />
             <Route path="/success" element={<Success />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </div>
       </FormProvider>
